@@ -1,0 +1,5 @@
+1 uploaded flipkart home page : Ananya M K,Manoj Kumar,Nithin Pulekar.
+2 Integrated with home page and product page : apoorva.
+3 Integrated with product details page : pratheek.
+4 Integrated with home product details page : suryaprakash s.
+5 Integrated with login page: keerthi kumar k shetty
